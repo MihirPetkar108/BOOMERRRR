@@ -1,4 +1,4 @@
-# Zoomer
+# Boomer
 
 A lightweight Hammerspoon utility that creates a dynamic spotlight effect around your cursor, helping you focus attention during presentations, screen sharing, demos, recordings, and tutorials.
 
